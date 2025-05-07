@@ -1,0 +1,14 @@
+# Temporary files
+*~
+~$*.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+
+# Prevent mac users to commit .DS_Store files
+*.DS_Store
+
+# Prevent users to commit the README files
+*README.html
+*README_cache/
+#*README_files/
